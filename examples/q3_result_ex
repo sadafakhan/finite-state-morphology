@@ -1,0 +1,10 @@
+cut => cut/irreg_verb_stem
+cuts => cut/irreg_verb_stem s/3sg
+cuted => *NONE*
+cuting => cut/irreg_verb_stem ing/pres_part
+cutting => *NONE*
+speaks => speak/irreg_verb_stem s/3sg
+speaking => speak/irreg_verb_stem ing/pres_part
+spoke => spoke/irreg_past_verb_form
+speak => speak/irreg_verb_stem
+speaked => *NONE*

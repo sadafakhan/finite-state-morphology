@@ -1,0 +1,21 @@
+walk reg_verb_stem
+talk reg_verb_stem
+impeach reg_verb_stem
+
+cut irreg_verb_stem
+speak irreg_verb_stem
+sing irreg_verb_stem
+
+caught irreg_past_verb_form
+ate irreg_past_verb_form
+sang irreg_past_verb_form
+spoke irreg_past_verb_form
+
+eaten irreg_past_verb_form
+sung irreg_past_verb_form
+spoken irreg_past_verb_form
+
+ed past
+ed past_participle
+ing pres_part
+s 3sg

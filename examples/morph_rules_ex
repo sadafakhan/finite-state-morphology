@@ -1,0 +1,14 @@
+q3
+(q0 (q3 irreg_past_verb_form))
+(q0 (q1 reg_verb_stem))
+(q1 (q3 past))
+(q1 (q3 past_participle))
+(q0 (q2 reg_verb_stem))
+(q0 (q2 irreg_verb_stem))
+(q2 (q3 pres_part))
+(q2 (q3 3sg))
+(q1 (q3 *e*))
+(q2 (q3 *e*))
+
+
+
